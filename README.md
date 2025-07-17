@@ -53,13 +53,3 @@
 </div>
 
 ---
-
-### :fire: Моя статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimonchester&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Статистика GitHub" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimonchester&theme=dracula" alt="Статистика коммитов" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimonchester&layout=compact&langs_count=8&theme=dracula" alt="Топ языков" />
-</div>
