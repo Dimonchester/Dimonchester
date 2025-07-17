@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <img src="https://komarev.com/ghpvc/?username=Dimonchester&style=flat-square&color=blue" alt="Счетчик просмотров профиля"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  
   <h1>
     Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Меня зовут Дмитрий.
   </h1>
