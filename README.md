@@ -1,108 +1,65 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=Dimonchester&style=flat-square&color=blue" alt="Счетчик просмотров профиля"/>
   <h1>
-    Привет! Я Дмитрий 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Меня зовут Дмитрий.
   </h1>
+  [cite_start]<p>Я начинающий Backend-разработчик из Ростова-на-Дону. [cite: 1, 6, 38] Увлечен созданием и развитием веб-приложений.</p>
   
-  <p>Python Backend разработчик, увлеченный созданием надежных и масштабируемых систем.</p>
-  
-  <div id="badges">
-    <a href="your-linkedin-url">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div id="badges" align="center">
+    <a href="https://t.me/dimonchester1">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://t.me/dmitry_tk">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="mailto:d.tkachev@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="mailto:dimonchester.tkachov@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
 
 ---
 
 ### :man_technologist: Обо мне
 
-Я — бэкенд-разработчик с 3-летним опытом работы. Специализируюсь на Python, с углубленными знаниями фреймворков **Django** и **FastAPI**. Моя страсть — проектирование и разработка высоконагруженных систем и микросервисной архитектуры.
+[cite_start]Я — начинающий разработчик, активно ищущий свою первую позицию или стажировку в IT. [cite: 10, 38, 41] [cite_start]Моя цель — расти и развиваться в области backend-разработки, изучать архитектуру сложных систем и применять свои знания на практике для решения реальных задач. [cite: 43]
 
-- :telescope: Проектирую и создаю RESTful API для сложных веб-приложений.
-- :gear: Оптимизирую производительность баз данных и запросов.
-- :zap: В свободное время решаю задачи на LeetCode и изучаю новые подходы в архитектуре ПО.
-- :seedling: Интересуюсь всем, что связано с **DevOps** и автоматизацией процессов.
-
----
-
-### :rocket: Мой стек технологий
-
-Здесь перечислены технологии, с которыми я работаю чаще всего.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original.svg" width="40" height="40" alt="Celery" />
-      </a>
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
+* [cite_start]:mortar_board: Получаю высшее образование в **Южном федеральном университете** по специальности "Прикладная математика и информатика". [cite: 19, 20] [cite_start]Ранее окончил колледж при **ДГТУ** по направлению "Программирование в компьютерных системах". [cite: 21, 22]
+* [cite_start]:rocket: Имею опыт работы с backend-частью в учебных и личных проектах. [cite: 38, 40]
+* [cite_start]:art: Разработал дизайн и создал сайт для химического факультета ЮФУ: [studchem.sfedu.ru](https://studchem.sfedu.ru/). [cite: 40]
+* [cite_start]:seedling: Заинтересован в стажировке с возможностью дальнейшего трудоустройства и готов к удаленной работе. [cite: 13, 41]
+* [cite_start]:earth_americas: Владею английским на уровне B1. [cite: 43]
 
 ---
 
-### :bar_chart: Моя статистика на GitHub
+### :hammer_and_wrench: Мой стек технологий
 
-Здесь вы можете увидеть мою активность и наиболее используемые языки.
+[cite_start]У меня есть базовые знания в следующих технологиях, которые я применял в своих проектах: [cite: 39]
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&locale=ru" alt="Статистика GitHub" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков" />
+<div>
+  <h4>Языки и фреймворки</h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  
+  <h4>Базы данных и инструменты</h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
+
+### :fire: Моя статистика GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimonchester&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Статистика GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimonchester&theme=dracula" alt="Статистика коммитов" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimonchester&layout=compact&langs_count=8&theme=dracula" alt="Топ языков" />
+</div>
