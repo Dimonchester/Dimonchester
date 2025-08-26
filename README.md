@@ -4,7 +4,7 @@
   <h1>
     Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Меня зовут Дмитрий.
   </h1>
-  <p>Я начинающий Backend-разработчик из Ростова-на-Дону. Увлечен созданием и развитием веб-приложений.</p>
+  <p>Я начинающий разработчик из Ростова-на-Дону. Увлечен созданием и развитием веб-приложений.</p>
   
   <div id="badges" align="center">
     <a href="https://t.me/dimonchester1">
